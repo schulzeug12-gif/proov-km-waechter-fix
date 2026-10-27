@@ -44,3 +44,6 @@ this template.
 ---
 
 This challenge is part of the ProoV project "The Legacy Fix" — https://projectstudy.in/explore/experience-legacy-fix
+
+## 
+A maintenance service used integer division for a ratio. It floored every partial value to zero, which silently removed the whole 80 to 99.9 percent warning window: three thousand kilometres of early warning per car, across six thousand cars. I found it from a failing edge case, fixed it, and locked it down with tests. I also reviewed the AI agent's patch and rejected the changes that quietly put the bug back
